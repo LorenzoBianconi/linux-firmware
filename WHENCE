@@ -3932,13 +3932,13 @@ Licence: Redistributable. See LICENCE.ralink_a_mediatek_company_firmware for det
 
 Driver: mt76x2u - MediaTek MT76x2u Wireless MACs
 
-File: mt7662u.bin
+File: mediatek/mt7662u.bin
 Version: 1.5
 
-File: mt7662u_rom_patch.bin
+File: mediatek/mt7662u_rom_patch.bin
 Version: 0.0.2_P48
 
-Licence: Redistributable. See LICENCE.ralink_a_mediatek_company_firmware for details
+Licence: Redistributable. See LICENCE.mediatek for details.
 
 --------------------------------------------------------------------------
 
